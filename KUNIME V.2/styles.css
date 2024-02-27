@@ -1,0 +1,61 @@
+.navbar-nav .nav-link {
+    padding-left: 50px !important;
+    padding-right: 50px !important;
+    color: black;
+    font-size: 1.2rem;
+    }
+    
+    body {
+      background-color: #F9F7F7;
+      font-family: "#";
+    }
+    
+    .container-fluid {
+      padding: 3% 15%;
+    }
+
+    .nav-link:hover {
+        color: #3F72AF;
+      }
+    
+    .navbar {
+      padding-bottom: 4.5rem;
+    }
+
+    navegacion img {
+      width: 500px;
+    }
+
+    .rotar {
+      transform: rotate(25deg);
+    }
+
+    #sobre-nosotros {
+        background-color: #222831;
+        padding: 50px 0;
+        
+      }
+    
+      #sobre-nosotros h3 {
+        font-family: "#";
+        font-size: 1.5rem;
+        font-weight: 700;
+      }
+    
+      #sobre-nosotros i {
+        color: #A6E3E9;
+      }
+    
+      #sobre-nosotros i:hover {
+        color: #3F72AF;
+      }
+    
+      #sobre-nosotros p {
+        color: #EAEAEA;
+        font-family: "#";
+      }
+
+      #sobre-nosotros h3 {
+        color: #EAEAEA;
+      }
+  
