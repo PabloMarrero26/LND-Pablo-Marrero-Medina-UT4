@@ -1,0 +1,28 @@
+body {
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    height: 100%;
+}
+
+h1 {
+    font-weight: 700;
+    color: #333;
+}
+
+.form-control {
+    border-radius: 5px;
+}
+
+.btn-primary {
+    background-color: #2979ff;
+    border-color: #2979ff;
+}
+
+.btn-primary:hover {
+    background-color: #1e67d8;
+    border-color: #1e67d8;
+}
