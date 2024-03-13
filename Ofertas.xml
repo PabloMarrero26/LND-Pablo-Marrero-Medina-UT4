@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Ofertas de la Semana</title>
+        <link>http://tuweb.com/ofertas</link>
+        <description>Las mejores ofertas de la semana en Kunime.</description>
+        <item>
+            <title>Descuento del 30% en suscripciones anuales</title>
+            <description><![CDATA[<img src="https://thumbs.dreamstime.com/b/el-descuento-texto-espa%C3%B1ol-del-etiqueta-de-la-venta-burbuja-precio-oferta-121153534.jpg" alt="Imagen"/><br/>]]>
+                Kunime ofrece una oferta especial por tiempo limitado, donde los usuarios pueden suscribirse con 
+                un descuento del 30% en el plan anual.</description>
+            <pubDate>2024-03-12</pubDate>
+            <category>Descuentos</category>
+        </item>
+        <item>
+            <title>Paquete de merchandising exclusivo con cada suscripción premium</title>
+            <description><![CDATA[<img src="https://nipponstore.es/wp-content/uploads/2022/03/venta-online-de-figuras-de-anime.png" alt="Imagen"/><br/>]]>
+                Al suscribirte a Kunime Premium este mes, recibirás un paquete de merchandising exclusivo 
+                de edición limitada de forma gratuita.</description>
+            <pubDate>2024-03-11</pubDate>
+            <category>Regalos</category>
+        </item>
+        <item>
+            <title>Oferta de lanzamiento para la nueva serie "Fairies Album S4"</title>
+            <description><![CDATA[<img src="https://1.vikiplatform.com/c/39836c/c42b9700fe.jpg?x=b" alt="Fairies"/><br/>]]>
+                Kunime celebra el estreno de la esperada cuarta temporada de "Fairies Album" con una 
+                oferta especial de lanzamiento.</description>
+            <pubDate>2024-03-10</pubDate>
+            <category>Lanzamientos</category>
+        </item>
+    </channel>
+</rss>

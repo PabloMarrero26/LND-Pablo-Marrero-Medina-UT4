@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Últimas Noticias</title>
+        <link>http://tuweb.com/noticias</link>
+        <description>Las últimas noticias destacadas en Kunime.</description>
+        <item>
+            <title>Anunciado el lanzamiento de "Kunime Premium Plus"</title>
+            <description><![CDATA[<img src="https://i.pinimg.com/originals/25/9f/cb/259fcbab8aaec7d59945ed79ab3855a8.jpg" alt="Kunime"/><br/>]]>
+                Kunime ha revelado su nueva suscripción premium, que ofrece acceso exclusivo a contenido adicional.</description>
+            <pubDate>2024-03-12</pubDate>
+            <category>Actualizaciones</category>
+        </item>
+        <item>
+            <title>Entrevista exclusiva con el creador de "Sousou no Frieren"</title>
+            <description><![CDATA[<img src="https://somoskudasai.com/wp-content/uploads/2023/10/portada_sousou-no-frieren-18.jpg" alt="Frieren"/><br/>]]>
+                El autor del manga "Sousou no Frieren" comparte detalles emocionantes sobre el 
+                proceso creativo detrás de la aclamada serie.</description>
+            <pubDate>2024-03-11</pubDate>
+            <category>Entrevistas</category>
+        </item>
+        <item>
+            <title>Colaboración sorpresa con estudio de animación de renombre</title>
+            <description><![CDATA[<img src="https://areajugones.sport.es/wp-content/uploads/2021/03/mappa.jpg" alt="MAPPA"/><br/>]]>
+                Kunime ha sorprendido a la comunidad del anime al anunciar una colaboración única con un 
+                estudio de animación reconocido a nivel mundial.</description>
+            <pubDate>2024-03-10</pubDate>
+            <category>Colaboraciones</category>
+        </item>
+    </channel>
+</rss>
